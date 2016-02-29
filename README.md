@@ -1,2 +1,2 @@
-# remotecar
-Simple remote car based on Arduino
+#Radio Control Car 
+Simple radio control car based on Arduino
